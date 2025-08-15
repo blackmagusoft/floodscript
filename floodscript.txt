@@ -1,0 +1,5 @@
+   <script language="Javascript">
+   function floodprotect() {
+      alert("Floodprotect active, please try later!");
+   }
+   </script>
